@@ -1,0 +1,188 @@
+[
+  {
+    "versao": "1.6.8",
+    "data": "2026-11-19",
+    "itens": [
+      "Compra automática por conta: cada conta guarda os canais dela. Salvar uma conta não desliga mais as outras",
+      "A janela da compra automática abre na conta da loja, já com os canais que ela usa"
+    ]
+  },
+  {
+    "versao": "1.6.7",
+    "data": "2026-11-19",
+    "itens": [
+      "Compra automática: a lista de canais agora mostra quantos pontos você tem em cada canal, em dourado quando já dá para comprar",
+      "O preço do bônus aparece ao lado de \"Em quais canais?\". Com várias contas marcadas, o número é a soma dos pontos delas"
+    ]
+  },
+  {
+    "versao": "1.6.6",
+    "data": "2026-11-17",
+    "itens": [
+      "O Lunar Premium ficou mais barato: agora R$3,99, pagos uma vez só",
+      "Vem aí uma super atualização: farmar na Twitch e na Kick com o PC desligado. Quem tem o Premium ajuda a tirar isso do papel"
+    ]
+  },
+  {
+    "versao": "1.6.5",
+    "data": "2026-11-15",
+    "itens": [
+      "A compra automática não para mais quando o streamer desliga ou recria a recompensa: ela espera e volta a comprar sozinha",
+      "A janela da compra automática mostra o que já está ligado nas outras versões da mesma recompensa (1h, 3h…) e troca de versão com um clique",
+      "Kick: 2 lives por conta no Premium, com a do seu canal favorito sempre primeiro"
+    ]
+  },
+  {
+    "versao": "1.6.4",
+    "data": "2026-11-15",
+    "itens": [
+      "Nova aba Compra automática na Loja: veja em quais contas e canais cada recompensa está comprando sozinha, a última compra e o que parou",
+      "Pause, retome ou desligue a compra automática com um clique: numa conta, numa recompensa ou em todas de uma vez"
+    ]
+  },
+  {
+    "versao": "1.6.3",
+    "data": "2026-11-13",
+    "itens": [
+      "A Kick agora farma 1 live por conta, que é o que ela paga de cada vez: os pontos vão para o seu canal favorito e o app usa menos memória",
+      "Quando uma live da Kick acaba ou para de render pontos, o Lunar Farm passa mais rápido para outro canal ao vivo da lista",
+      "Melhoramos a segurança do acesso pelo celular"
+    ]
+  },
+  {
+    "versao": "1.6.2",
+    "data": "2026-11-13",
+    "itens": [
+      "Corrigimos o nome de alguns canais do PokeIdle na Kick (axt, clovaobengalalol, patopapao2 e denissnider) e a lista do PokeIdle na Kick agora tem 25 canais",
+      "Melhoramos a segurança do painel do app"
+    ]
+  },
+  {
+    "versao": "1.6.1",
+    "data": "2026-11-13",
+    "itens": [
+      "Melhoramos: o Lunar Farm ficou bem mais leve. Cada conta da Twitch usa muito menos memória e quase nada do processador"
+    ]
+  },
+  {
+    "versao": "1.6.0",
+    "data": "2026-11-13",
+    "itens": [
+      "Novo: Kick! Ligue na página de cada conta e o Lunar Farm junta também os pontos dos canais da Kick, com as lives tocando escondidas, sem som e na menor qualidade",
+      "Os canais da sua lista da Twitch que também fazem live na Kick já entram sozinhos (os do PokeIdle também)",
+      "Loja da Kick: compre os bônus do PokeIdle com os pontos da Kick, ou deixe a compra automática ligada (Premium)",
+      "Botão + Seguir nos canais da Kick: a Kick dá 50 pontos na primeira vez que você segue um canal"
+    ]
+  },
+  {
+    "versao": "1.5.5",
+    "data": "2026-11-09",
+    "itens": [
+      "Adicionamos um vídeo de 1 minuto que mostra como conectar a sua conta da Twitch. Ele aparece na janela de adicionar conta"
+    ]
+  },
+  {
+    "versao": "1.5.4",
+    "data": "2026-11-09",
+    "itens": [
+      "Corrigimos o botão “Mandar no WhatsApp” do Indicar a um amigo, que não abria no PC",
+      "O histórico agora chama de “sequência de lives” o bônus por assistir lives seguidas do mesmo canal, como é na Twitch",
+      "Em Ajuda e suporte, adicionamos o link da nossa página de privacidade"
+    ]
+  },
+  {
+    "versao": "1.5.3",
+    "data": "2026-11-06",
+    "itens": [
+      "Novo: Indicar a um amigo. No menu do lado, o botão manda o link do Lunar Farm pelo WhatsApp ou copia uma mensagem pronta"
+    ]
+  },
+  {
+    "versao": "1.5.2",
+    "data": "2026-11-05",
+    "itens": [
+      "Melhorias internas do app"
+    ]
+  },
+  {
+    "versao": "1.5.1",
+    "data": "2026-11-05",
+    "itens": [
+      "Novo: Ajuda e suporte. Abra um ticket direto pelo app e a resposta aparece aqui mesmo, com um aviso perto do relógio",
+      "Pagou o Premium e não liberou? Na janela do Pix tem o botão para abrir um ticket na hora"
+    ]
+  },
+  {
+    "versao": "1.5.0",
+    "data": "2026-11-05",
+    "itens": [
+      "O Lunar Farm agora é grátis para baixar: a versão grátis farma 1 conta, com 1 live por vez",
+      "Chegou o Lunar Premium: contas ilimitadas, 2 lives por conta, compra automática e segue todos os canais da lista",
+      "O Premium custa R$4,99 uma vez só: paga com Pix dentro do app e libera na hora, sem digitar nada",
+      "Na versão grátis, as contas a mais ficam com cadeado até desbloquear o Premium (nada é apagado)",
+      "Já tem uma chave do Premium? Configurações → Ver o Premium → Já tenho uma chave"
+    ]
+  },
+  {
+    "versao": "1.4.3",
+    "data": "2026-11-05",
+    "itens": [
+      "Depois de atualizar, a janela do Lunar Farm abre sozinha mostrando as novidades (antes ele voltava só no ícone perto do relógio)"
+    ]
+  },
+  {
+    "versao": "1.4.2",
+    "data": "2026-11-05",
+    "itens": [
+      "As atualizações agora vêm direto do site vexpulse.com.br (baixam mais rápido)",
+      "O app confere se saiu versão nova de hora em hora (antes era de 6 em 6 horas)"
+    ]
+  },
+  {
+    "versao": "1.4.1",
+    "data": "2026-11-05",
+    "itens": [
+      "Saldo sempre certo depois de comprar: não volta mais para o valor antigo por alguns minutos",
+      "Loja mostra a regra do streamer (ex.: máx. 3 por live) e quantas cada conta já comprou na live",
+      "Na janela de compra, a conta que já chegou no limite da live aparece bloqueada, com o motivo",
+      "Compra automática avisa quando a versão de 10h compensa mais (mesmo preço por hora e sem limite por live)",
+      "Na lista de contas, embaixo do ganho de hoje, aparece o saldo somado de todos os canais"
+    ]
+  },
+  {
+    "versao": "1.4.0",
+    "data": "2026-11-05",
+    "itens": [
+      "Compra automática agora compra uma atrás da outra até os pontos do canal acabarem",
+      "Quando o streamer limita as compras por live (ex.: 3/live), o app compra até o limite e volta na próxima live; o limite aparece do lado do preço",
+      "Corrigido: salvar a compra automática às vezes dava erro e desligava canais que a Twitch não respondeu na hora",
+      "Janela de atualização: quando sair versão nova, o app mostra tudo o que muda e atualiza com um clique",
+      "Depois de atualizar, o app mostra as novidades da versão",
+      "Histórico de versões nas Configurações"
+    ]
+  },
+  {
+    "versao": "1.3.0",
+    "data": "2026-11-05",
+    "itens": [
+      "Compra automática na loja: escolha os canais e as contas, e o app compra o bônus sozinho quando juntar os pontos",
+      "Estrelinha nos canais: o favorito entra na frente sempre que abrir live",
+      "Escolha das lives: pela ordem da lista ou onde a conta tem mais pontos",
+      "Saldo sempre certo: o app confere na Twitch, e compras feitas no chat entram no Gasto",
+      "A loja atualiza sozinha e a janela de compra rola em telas pequenas",
+      "O app registra quem mandou ele fechar e apaga os instaladores velhos depois de atualizar"
+    ]
+  },
+  {
+    "versao": "1.2.0",
+    "data": "2026-11-04",
+    "itens": [
+      "Agora o app se chama Lunar Farm, com logo novo (as contas e o histórico vêm junto, sozinhos)",
+      "Atualização pelo próprio app: quando sair versão nova, aparece um aviso no topo com o botão Atualizar agora",
+      "Loja corrigida: a compra dava 'A recompensa mudou de preço ou de nome'",
+      "Atalho Lives PokeIdle na aba Canais: enche a conta com os 17 canais em 2 cliques",
+      "As contas começam a ganhar pontos assim que terminam de carregar",
+      "Abre junto com o Windows (já vem marcado no instalador)"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+# Runtime do Python embarcado (~150 MB) — baixado à parte, não versionado
+Lunar/python/
+
+# Backup local, não faz parte do código-fonte
+backup-original/
+
+# Caches e artefatos do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Dados e segredos locais (nunca devem ir para o repositório)
+*.env
+origem.txt
+config.json
+historico.db
+historico.db-*
+*.pkl
+segredo
